@@ -1,0 +1,181 @@
+product_id,product_name,category,sub_category,price,cost,brand
+PROD0001,Mobiles Product 001,Electronics,Mobiles,30669.0,23237.33,Brand C
+PROD0002,Furniture Product 002,Home & Kitchen,Furniture,34648.0,27294.39,Brand D
+PROD0003,Footwear Product 003,Fashion,Footwear,19614.0,11654.25,Brand E
+PROD0004,Personal Care Product 004,Beauty,Personal Care,26431.0,16102.39,Brand C
+PROD0005,Staples Product 005,Grocery,Staples,43657.0,34907.41,Brand B
+PROD0006,Laptops Product 006,Electronics,Laptops,27061.0,21983.74,Brand D
+PROD0007,Home Decor Product 007,Home & Kitchen,Home Decor,25069.0,17077.79,Brand C
+PROD0008,Bags Product 008,Fashion,Bags,45933.0,25363.56,Brand C
+PROD0009,Skincare Product 009,Beauty,Skincare,19608.0,13299.93,Brand B
+PROD0010,Snacks Product 010, Electronics ,Snacks,7021.0,5612.86,Brand A
+PROD0011,Audio Product 011,Electronics,Audio,38197.0,22131.12,Brand A
+PROD0012,Appliances Product 012,Home & Kitchen,Appliances,37606.0,20648.72,Brand D
+PROD0013,Men Clothing Product 013,Fashion,Men Clothing,7829.0,5775.53,Brand E
+PROD0014,Haircare Product 014,Beauty,Haircare,5479.0,3986.27,Brand A
+PROD0015,Beverages Product 015,Grocery,Beverages,42329.0,31628.43,Brand D
+PROD0016,Accessories Product 016,Electronics,Accessories,3143.0,2311.69,Brand E
+PROD0017,Kitchen Product 017,Home & Kitchen,Kitchen,43987.0,27128.5,Brand C
+PROD0018,Women Clothing Product 018,Fashion,Women Clothing,46101.0,37207.72,Brand D
+PROD0019,Makeup Product 019,Beauty,Makeup,3147.0,2263.65,Brand C
+PROD0020,Household Product 020,Grocery,Household,20749.0,15496.11,Brand C
+PROD0021,Mobiles Product 021,Electronics,Mobiles,19125.0,10865.23,Brand E
+PROD0022,Furniture Product 022,Home & Kitchen,Furniture,517.0,352.51,Brand B
+PROD0023,Footwear Product 023,Fashion,Footwear,17023.0,11770.91,Brand C
+PROD0024,Personal Care Product 024,Beauty,Personal Care,3092.0,1982.85,Brand A
+PROD0025,Staples Product 025,Grocery,Staples,42554.0,29598.75,Brand C
+PROD0026,Laptops Product 026,Electronics,audio,17394.0,12803.11,Brand D
+PROD0027,Home Decor Product 027,Home & Kitchen,Home Decor,9623.0,7285.31,Brand D
+PROD0028,Bags Product 028,Fashion,Bags,39966.0,27226.93,Brand D
+PROD0029,Skincare Product 029,Beauty,Skincare,1450.0,798.02,Brand D
+PROD0030,Snacks Product 030,Grocery,Snacks,5408.0,3667.81,Brand B
+PROD0031,Audio Product 031,Electronics,Audio,48826.0,35336.13,Brand E
+PROD0032,Appliances Product 032,Home & Kitchen,Appliances,16683.0,11639.44,Brand A
+PROD0033,Men Clothing Product 033,Fashion,Men Clothing,9272.0,6863.18,Brand B
+PROD0034,Haircare Product 034,Beauty,Haircare,44991.0,31405.38,Brand E
+PROD0035,Beverages Product 035,Grocery,Beverages,48048.0,29865.55,Brand C
+PROD0036,Accessories Product 036,Electronics,Accessories,36410.0,28371.86,Brand C
+PROD0037,Kitchen Product 037,Home & Kitchen,Kitchen,1983.0,1340.36,Brand D
+PROD0038,Women Clothing Product 038,Fashion,Women Clothing,13385.0,7162.5,Brand B
+PROD0039,Makeup Product 039,Beauty,Makeup,39181.0,22643.0,Brand A
+PROD0040,Household Product 040,Grocery,Household,8197.0,6584.18,Brand B
+PROD0041,Mobiles Product 041,Electronics,Mobiles,19208.0,11341.4,Brand C
+PROD0042,Furniture Product 042,Home & Kitchen,Furniture,47246.0,29362.99,Brand A
+PROD0043,Footwear Product 043,Fashion,Footwear,2045.0,1298.58,Brand E
+PROD0044,Personal Care Product 044,Beauty,Personal Care,41851.0,31840.72,Brand D
+PROD0045,Staples Product 045,Grocery,Staples,28758.0,20205.31,Brand A
+PROD0046,Laptops Product 046,Electronics,Laptops,45082.0,28881.4,Brand E
+PROD0047,Home Decor Product 047,Home & Kitchen,Home Decor,9785.0,7798.56,Brand A
+PROD0048,Bags Product 048,Fashion,Bags,46600.0,31531.54,Brand E
+PROD0049,Skincare Product 049,Beauty,Skincare,49575.0,28928.12,Brand C
+PROD0050,Snacks Product 050,Grocery,Snacks,37385.0,25032.25,Brand E
+PROD0051,  Audio Product 051  ,Electronics,Audio,10053.0,7287.46,Brand A
+PROD0052,Appliances Product 052,Home & Kitchen,Appliances,38676.0,29731.99,Brand E
+PROD0053,Men Clothing Product 053,Fashion,Men Clothing,35871.0,19226.77,Brand B
+PROD0054,Haircare Product 054,Beauty,Haircare,30024.0,24052.79,Brand E
+PROD0055,Beverages Product 055,Grocery,Beverages,2995.0,2134.52,Brand C
+PROD0056,Accessories Product 056,Electronics,Accessories,44050.0,28453.2,Brand C
+PROD0057,Kitchen Product 057,Home & Kitchen,Kitchen,43631.0,23954.55,Brand A
+PROD0058,Women Clothing Product 058,Fashion,Women Clothing,35164.0,27111.17,Brand B
+PROD0059,Makeup Product 059,Beauty,Makeup,18136.0,10664.14,Brand A
+PROD0060,Household Product 060,Grocery,Household,45751.0,26743.26,Brand C
+PROD0061,Mobiles Product 061,Electronics,Mobiles,17703.0,12197.28,Brand A
+PROD0062,Furniture Product 062,Home & Kitchen,Furniture,40444.0,28628.2,Brand B
+PROD0063,Footwear Product 063,Fashion,Footwear,14731.0,8327.4,Brand E
+PROD0064,Personal Care Product 064,Beauty,Personal Care,48142.0,38068.14,Brand E
+PROD0065,Staples Product 065,Grocery,Staples,47379.0,33609.99,Brand E
+PROD0066,Laptops Product 066,Electronics,Laptops,27003.0,19219.76,Brand D
+PROD0067,Home Decor Product 067,Home & Kitchen,Home Decor,25796.0,13541.47,Brand D
+PROD0068,Bags Product 068,Fashion,Bags,1956.0,1360.75,Brand E
+PROD0069,Skincare Product 069,Beauty,Skincare,8893.0,5630.91,Brand D
+PROD0070,Snacks Product 070,Grocery,Snacks,16626.0,11187.97,Brand A
+PROD0071,Audio Product 071,Electronics,Audio,15948.0,10383.69,Brand C
+PROD0072,Appliances Product 072,Home & Kitchen,Appliances,26074.0,15512.67,Brand B
+PROD0073,Men Clothing Product 073,Fashion,Men Clothing,7062.0,4467.3,Brand C
+PROD0074,Haircare Product 074,Beauty,Haircare,2520.0,1441.13,Brand E
+PROD0075,Beverages Product 075,Grocery,Beverages,30857.0,18766.86,Brand B
+PROD0076,Accessories Product 076,Electronics,Accessories,27596.0,18483.36,Brand C
+PROD0077,Kitchen Product 077,Home & Kitchen,Kitchen,5630.0,4532.15,Brand D
+PROD0078,Women Clothing Product 078,Fashion,Women Clothing,16423.0,11953.18,Brand B
+PROD0079,Makeup Product 079,Beauty,Makeup,49624.0,29710.71,Brand A
+PROD0080,Household Product 080,Grocery,Household,12917.0,6836.95,Brand C
+PROD0081,Mobiles Product 081,Electronics,Mobiles,40828.0,29538.78,Brand D
+PROD0082,Furniture Product 082,Home & Kitchen,Furniture,5946.0,4013.39,Brand D
+PROD0083,Footwear Product 083,Fashion,Footwear,33908.0,21661.09,Brand D
+PROD0084,Personal Care Product 084,Beauty,Personal Care,23929.0,13160.6,Brand A
+PROD0085,Staples Product 085,Grocery,Staples,23036.0,18858.8,Brand D
+PROD0086,Laptops Product 086,Electronics,Laptops,18985.0,13047.92,Brand A
+PROD0087,Home Decor Product 087,Home & Kitchen,Home Decor,32088.0,24644.63,Brand D
+PROD0088,Bags Product 088,Fashion,Bags,18632.0,13153.72,Brand C
+PROD0089,Skincare Product 089,Beauty,Skincare,13226.0,10285.73,Brand D
+PROD0090,Snacks Product 090,Grocery,Snacks,46468.0,37074.71,Brand A
+PROD0091,Audio Product 091,Electronics,Audio,19164.0,14772.76,Brand A
+PROD0092,Appliances Product 092,Home & Kitchen,Appliances,17877.0,10339.85,Brand A
+PROD0093,Men Clothing Product 093,Fashion,Men Clothing,17768.0,11612.76,Brand A
+PROD0094,Haircare Product 094,Beauty,Haircare,43378.0,24716.69,Brand B
+PROD0095,Beverages Product 095,Grocery,Beverages,10167.0,6514.11,Brand C
+PROD0096,Accessories Product 096,Electronics,Accessories,42763.0,33694.64,Brand D
+PROD0097,Kitchen Product 097,Home & Kitchen,Kitchen,39054.0,21765.7,Brand D
+PROD0098,Women Clothing Product 098,Fashion,Women Clothing,40949.0,32513.32,Brand B
+PROD0099,Makeup Product 099,Beauty,Makeup,24901.0,15987.86,Brand A
+PROD0100,Household Product 100,Grocery,Household,46849.0,37722.79,Brand E
+PROD0101,Mobiles Product 101,Electronics,Mobiles,21926.0,15791.52,Brand C
+PROD0102,Furniture Product 102,Home & Kitchen,Furniture,26213.0,19555.9,Brand C
+PROD0103,Footwear Product 103,Fashion,Footwear,24630.0,13872.78,Brand A
+PROD0104,Personal Care Product 104,Beauty,Personal Care,23211.0,13689.05,Brand D
+PROD0105,Staples Product 105,Grocery,Staples,39372.0,24621.94,Brand D
+PROD0106,Laptops Product 106,Electronics,Laptops,15271.0,11694.19,Brand E
+PROD0107,Home Decor Product 107,Home & Kitchen,Home Decor,26494.0,19920.0,Brand C
+PROD0108,Bags Product 108,Fashion,Bags,4495.0,3003.91,Brand B
+PROD0109,Skincare Product 109,Beauty,Skincare,15127.0,11772.83,Brand A
+PROD0110,Snacks Product 110,Grocery,Snacks,27988.0,22128.57,Brand E
+PROD0111,Audio Product 111,Electronics,Audio,17679.0,14282.49,Brand E
+PROD0112,Appliances Product 112,Home & Kitchen,Appliances,17679.0,14135.2,Brand B
+PROD0113,Men Clothing Product 113,Fashion,Men Clothing,45050.0,29136.02,Brand C
+PROD0114,Haircare Product 114,Beauty,Haircare,35762.0,22271.88,Brand C
+PROD0115,Beverages Product 115,Grocery,Beverages,3174.0,1880.26,Brand B
+PROD0116,Accessories Product 116,Electronics,Accessories,49670.0,33227.71,Brand A
+PROD0117,Kitchen Product 117,Home & Kitchen,Kitchen,41698.0,29565.78,Brand E
+PROD0118,Women Clothing Product 118,Fashion,Women Clothing,35007.0,22704.77,Brand C
+PROD0119,Makeup Product 119,Beauty,Makeup,12228.0,7126.27,Brand C
+PROD0120,Household Product 120,Grocery,Household,12620.0,7313.48,Brand E
+PROD0121,Mobiles Product 121,Electronics,Mobiles,35715.0,26714.66,Brand D
+PROD0122,Furniture Product 122,Home & Kitchen,Furniture,49600.0,38632.34,Brand C
+PROD0123,Footwear Product 123,Fashion,Footwear,13387.0,10501.9,Brand B
+PROD0124,Personal Care Product 124,Beauty,Personal Care,17098.0,12988.07,Brand D
+PROD0125,Staples Product 125,Grocery,Staples,447.0,345.93,Brand D
+PROD0126,Laptops Product 126,Electronics,Laptops,3537.0,2285.07,Brand E
+PROD0127,Home Decor Product 127,Home & Kitchen,Home Decor,11856.0,8813.44,Brand E
+PROD0128,Bags Product 128,Fashion,Bags,3546.0,2830.01,Brand C
+PROD0129,Skincare Product 129,Beauty,Skincare,10592.0,7304.66,Brand B
+PROD0130,Snacks Product 130,Grocery,Snacks,26958.0,15844.09,Brand A
+PROD0131,Audio Product 131,Electronics,Audio,15883.0,10148.69,Brand E
+PROD0132,Appliances Product 132,Home & Kitchen,Appliances,45641.0,27101.37,Brand B
+PROD0133,Men Clothing Product 133,Fashion,Men Clothing,9322.0,7100.99,Brand C
+PROD0134,Haircare Product 134,Beauty,Haircare,19666.0,10639.98,Brand E
+PROD0135,Beverages Product 135,Grocery,Beverages,37006.0,24430.7,Brand C
+PROD0136,Accessories Product 136,Electronics,Accessories,15228.0,9961.89,Brand D
+PROD0137,Kitchen Product 137,Home & Kitchen,Kitchen,14402.0,9527.85,Brand B
+PROD0138,Women Clothing Product 138,Fashion,Women Clothing,15602.0,10457.94,Brand C
+PROD0139,Makeup Product 139,Beauty,Makeup,6252.0,4784.97,Brand C
+PROD0140,Household Product 140,Grocery,Household,34795.0,21656.88,Brand D
+PROD0141,Mobiles Product 141,Electronics,Mobiles,32781.0,25441.18,Brand E
+PROD0142,Furniture Product 142,Home & Kitchen,Furniture,13797.0,9586.22,Brand A
+PROD0143,Footwear Product 143,Fashion,Footwear,33325.0,24718.88,Brand B
+PROD0144,Personal Care Product 144,Beauty,Personal Care,18134.0,13082.25,Brand B
+PROD0145,Staples Product 145,Grocery,Staples,8704.0,5860.78,Brand B
+PROD0146,Laptops Product 146,Electronics,Laptops,8463.0,5368.86,Brand E
+PROD0147,Home Decor Product 147,Home & Kitchen,Home Decor,3213.0,2622.08,Brand E
+PROD0148,Bags Product 148,Fashion,Bags,24901.0,14187.59,Brand E
+PROD0149,Skincare Product 149,Beauty,Skincare,40095.0,21236.11,Brand E
+PROD0150,Snacks Product 150,Grocery,Snacks,47197.0,36871.24,Brand B
+PROD0151,Audio Product 151,Electronics,Audio,42604.0,28963.14,Brand D
+PROD0152,Appliances Product 152,Home & Kitchen,Appliances,1433.0,1094.37,Brand B
+PROD0153,Men Clothing Product 153,Fashion,Men Clothing,28065.0,18537.54,Brand D
+PROD0154,Haircare Product 154,Beauty,Haircare,25484.0,15009.68,Brand E
+PROD0155,Beverages Product 155,Grocery,Beverages,17747.0,12650.79,Brand A
+PROD0156,Accessories Product 156,Electronics,Accessories,40095.0,23823.53,Brand E
+PROD0157,Kitchen Product 157,Home & Kitchen,Kitchen,15174.0,8525.51,Brand B
+PROD0158,Women Clothing Product 158,Fashion,Women Clothing,1680.0,987.7,Brand E
+PROD0159,Makeup Product 159,Beauty,Makeup,16775.0,13709.57,Brand C
+PROD0160,Household Product 160,Grocery,Household,20326.0,13962.86,Brand A
+PROD0161,Mobiles Product 161,Electronics,Mobiles,25940.0,19772.36,Brand C
+PROD0162,Furniture Product 162,Home & Kitchen,Furniture,12734.0,8189.27,Brand B
+PROD0163,Footwear Product 163,Fashion,Footwear,21533.0,15982.75,Brand A
+PROD0164,Personal Care Product 164,Beauty,Personal Care,42177.0,23661.25,Brand D
+PROD0165,Staples Product 165,Grocery,Staples,8151.0,6421.94,Brand B
+PROD0166,Laptops Product 166,Electronics,Laptops,44961.0,27409.47,Brand A
+PROD0167,Home Decor Product 167,Home & Kitchen,Home Decor,10049.0,6232.67,Brand C
+PROD0168,Bags Product 168,Fashion,Bags,27700.0,18226.91,Brand B
+PROD0169,Skincare Product 169,Beauty,Skincare,40010.0,27162.29,Brand A
+PROD0170,Snacks Product 170,Grocery,Snacks,12992.0,8998.11,Brand D
+PROD0171,Audio Product 171,Electronics,Audio,49493.0,38274.05,Brand A
+PROD0172,Appliances Product 172,Home & Kitchen,Appliances,26771.0,20063.35,Brand A
+PROD0173,Men Clothing Product 173,Fashion,Men Clothing,43072.0,32511.97,Brand B
+PROD0174,Haircare Product 174,Beauty,Haircare,9010.0,5189.75,Brand B
+PROD0175,Beverages Product 175,Grocery,Beverages,38586.0,20445.98,Brand C
+PROD0176,Accessories Product 176,Electronics,Accessories,47308.0,34875.63,Brand B
+PROD0177,Kitchen Product 177,Home & Kitchen,Kitchen,26719.0,14541.43,Brand E
+PROD0178,Women Clothing Product 178,Fashion,Women Clothing,28448.0,21599.29,Brand E
+PROD0179,Makeup Product 179,Beauty,Makeup,45329.0,33068.8,Brand E
+PROD0180,Household Product 180,Grocery,Household,26377.0,17871.16,Brand D
