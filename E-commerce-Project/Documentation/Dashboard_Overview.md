@@ -1,4 +1,4 @@
-[E-Commerce Analytics Dashboard](../images/Deshboard.png)
+[E-Commerce Analytics Dashboard](..\images/Deshboard.png)
 
 🛒 E-Commerce Analytics — Executive Dashboard
 
