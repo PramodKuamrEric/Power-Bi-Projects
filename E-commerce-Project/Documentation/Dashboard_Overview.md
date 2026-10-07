@@ -26,7 +26,7 @@ The dashboard combines **DAX measures, time-intelligence calculations, interacti
 - Payment Method Performance
 
 ---
-[Interactive Filters](../images/InteractiveFilters.png)
+![Interactive Filters](../images/InteractiveFilters.png)
 
 # 🎛️ 2. Interactive Filters
 
