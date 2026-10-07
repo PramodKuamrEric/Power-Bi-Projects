@@ -1,4 +1,4 @@
-[E-Commerce Analytics Dashboard](..\images/Deshboard.png)
+![E-Commerce Analytics Dashboard](../images/Deshboard.png)
 
 🛒 E-Commerce Analytics — Executive Dashboard
 
@@ -541,7 +541,7 @@ TOTALQTD(
 > “Current quarter mein abhi tak kitni sales hui?”
 
 ---
-[SalesTrend](../images/SalesTrend.png)
+![SalesTrend](../images/SalesTrend.png)
 
 # 📈 15. Sales Trend
 
@@ -593,7 +593,7 @@ Possible reasons:
 - Product launches
 
 ---
-[Category by Net Sales](../images/CategorybyNetSales.png)
+![Category by Net Sales](../images/CategorybyNetSales.png)
 
 # 📦 16. Category by Net Sales
 
@@ -631,7 +631,7 @@ Agar Electronics highest performer hai:
 jaise decisions liye ja sakte hain.
 
 ---
-[Subcategory by Net Sales](../images/SubcategorybyNetSales.png)
+![Subcategory by Net Sales](../images/SubcategorybyNetSales.png)
 
 # 🛍️ 17. Subcategory by Net Sales
 
@@ -677,7 +677,7 @@ Subcategories:
 Ab company identify kar sakti hai ki Electronics ke andar exactly kaunsa segment strong hai.
 
 ---
-[State Performance — Net Sales](../images/StatePerformancNetSales.png)
+![State Performance — Net Sales](../images/StatePerformancNetSales.png)
 
 # 🗺️ 18. State Performance — Net Sales
 
@@ -729,7 +729,7 @@ Low-performing states:
 - Customer behavior analysis
 
 ---
-[City by Net Sales](../images/CitybyNetSales.png)
+![City by Net Sales](../images/CitybyNetSales.png)
 
 # 🏙️ 19. City by Net Sales
 
@@ -768,7 +768,7 @@ Top cities mein:
 par greater focus kiya ja sakta hai.
 
 ---
-[Payment by Net Sales](../images/PaymentbyNetSales.png)
+![Payment by Net Sales](../images/PaymentbyNetSales.png)
 
 # 💳 20. Payment by Net Sales
 
